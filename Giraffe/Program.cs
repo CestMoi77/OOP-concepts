@@ -384,7 +384,7 @@ namespace Giraffe
             //}
             //else if (!isMale1 && isTall)
             //{
-            //    Console.WriteLine("You  are a not a male but you`re tall");
+            //    Console.WriteLine("You   are a not a male but you`re tall");
             //}
             //else
             //{
